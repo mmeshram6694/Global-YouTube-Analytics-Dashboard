@@ -68,9 +68,23 @@ To explore and visualize YouTube performance metrics (subscribers, views, earnin
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Screenshots
 
-![Dashboard Snapshot](./Dashboard_Snapshot/Tableau_Dashboard.png)
+### 🧩 Dashboard
+
+> ![Dashboard](Screenshots/Dashboard_Snapshot.png)
+
+### 📈 Viewer Engagement: Subscribers vs video views
+
+> ![Viewer_Engagement](Screenshots/Viewer_Engagement.png)
+
+### 🛍️ Subscribers Distribution by Country
+
+> ![Subscriber_distribution](Screenshots/Subscriber_distribution.png)
+
+### 📈 Top 10 YouTube Channels
+
+> ![Top_YouTube_Channels](Screenshots/Top_YouTube_Channels.png)
 
 ---
 
